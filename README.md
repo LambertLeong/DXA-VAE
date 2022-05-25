@@ -20,12 +20,18 @@ This repo houses code used for NeurIPS 2022 submission entitled "Quantitative Im
 
 ## Usage
 
-- In \*.config file:
-  - define path to directory containing data split csv files  
+- In train.config file:
+  - [define path to directory containing data split csv files](https://github.com/LambertLeong/DXA-VAE/blob/9b898fc9866704727b34771c368c8f9cc44771d0/train.config#L33)  
     - directory should contain a files labeled "train.csv", "val.csv", and "test.csv"
-      - csv files should contain on column and each row contains a path to DXA npy files
-  - define model parameters
-  - specify path for saved model
+      - csv files should contain one column and each row contains a path to DXA npy files
+      ```sh
+      paths
+      path_to_image1
+      path_to_image2
+      ...
+      ```
+  - [define model parameter](https://github.com/LambertLeong/DXA-VAE/blob/9b898fc9866704727b34771c368c8f9cc44771d0/train.config#L1-L30)
+  - [specify path for saved model](https://github.com/LambertLeong/DXA-VAE/blob/9b898fc9866704727b34771c368c8f9cc44771d0/train.config#L8)
 - run train.py
 
 ### Example

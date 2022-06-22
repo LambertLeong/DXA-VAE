@@ -6,7 +6,9 @@ This repo houses code used for NeurIPS 2022 submission entitled "Quantitative Im
 - VAE = Variational AutoEncoder
 
 ---
+[![Watch the video](example_training_image.png)](https://youtu.be/hXSL7NVCeAY)
 
+---
 ## Prerequisites
 
 - Linux Kernel: 4.4+

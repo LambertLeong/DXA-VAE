@@ -51,3 +51,13 @@ Data used for training and experiments are available upon request. Inquire at
 
 Trained VAE, encoder, and Pseudo-DXA models are available upon request. Inquire at
 [https://shepherdresearchlab.org/services/](https://shepherdresearchlab.org/services/)
+
+# Citation
+```sh
+@article{leong2022quantitative,
+  title={Quantitative Imaging Principles Improves Medical Image Learning},
+  author={Leong, Lambert T and Wong, Michael C and Glaser, Yannik and Wolfgruber, Thomas and Heymsfield, Steven B and Sadowski, Peter and Shepherd, John A},
+  journal={arXiv preprint arXiv:2206.06663},
+  year={2022}
+}
+```

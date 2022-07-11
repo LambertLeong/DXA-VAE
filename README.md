@@ -5,6 +5,9 @@ This repo houses code used for NeurIPS 2022 submission entitled "Quantitative Im
 - DXA = Dual Energy X-ray Absorptiometry
 - VAE = Variational AutoEncoder
 
+
+[![DOI](https://zenodo.org/badge/494903208.svg)](https://zenodo.org/badge/latestdoi/494903208)
+
 ---
 [![Watch the video](example_training_image.png)](https://youtu.be/hXSL7NVCeAY)
 
